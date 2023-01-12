@@ -12,8 +12,8 @@ function App() {
        <div className="words overflow-hidden">
         <p className='font-bold'>
            <span className='block h-full pl-2 text-red-500 font-bold'>Fantastic</span>
-           <span className='block h-full pl-2 text-orange-500 font-bold'>Awesome</span>
-           <span className='block h-full pl-2 text-yellow-500 font-bold'>Hard</span>
+           {/* <span className='block h-full pl-2 text-orange-500 font-bold'>Awesome</span>
+           <span className='block h-full pl-2 text-yellow-500 font-bold'>Hard</span> */}
            <span className='block h-full pl-2 text-green-500 font-bold'>Money</span>
            <span className='block h-full pl-2 text-blue-500 font-bold'>Family</span>
            </p>
