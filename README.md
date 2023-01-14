@@ -1,1 +1,1 @@
-# rotating-text-react-tailwind
+# rotating-text-react
